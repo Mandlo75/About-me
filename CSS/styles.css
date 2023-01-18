@@ -92,7 +92,7 @@ body {
 }
 
 @media (max-width: 576px) {
-  h4 {
+  h1 {
     font-size: 28px;
   }
 }
