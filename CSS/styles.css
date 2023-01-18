@@ -90,3 +90,9 @@ body {
   background: var(--primary-color);
   color: white;
 }
+
+@media (max-width: 576px) {
+  h4 {
+    font-size: 28px;
+  }
+}
